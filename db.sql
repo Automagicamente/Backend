@@ -1,4 +1,4 @@
-CREATE IF NOT EXISTS db_fullstack;
+CREATE DATABASE IF NOT EXISTS db_fullstack;
 USE db_fullstack;
 
 CREATE TABLE users (
